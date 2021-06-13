@@ -4,8 +4,12 @@ This is first line.
 
 This is second line.
 
+<<<<<<< HEAD
 This is third Line.
 
 This is Forth Line.
 
 This is Fifth Line.
+=======
+This is third Line.
+>>>>>>> parent of cf5ece9 (Forth commit)
