@@ -11,10 +11,7 @@ This is Forth Line.
 This is Fifth Line.
 
 This is Sixth Line.
-<<<<<<< HEAD
 
 This is Seventh Line.
 
 This is Eight Line.
-=======
->>>>>>> parent of 08a0ad0 (Seventh Commit)
