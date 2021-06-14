@@ -9,8 +9,5 @@ This is third Line.
 This is Forth Line.
 
 This is Fifth Line.
-<<<<<<< HEAD
 
 This is Sixth Line.
-=======
->>>>>>> parent of 1b296d8 (Revert "Forth commit")
